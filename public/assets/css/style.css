@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #1c1917;
+}
+
+.bg-emerald-800 { background-color: #065f46 !important; }
+.text-emerald-700 { color: #047857 !important; }
+
+.card {
+    border-radius: 0.75rem;
+}
+
+.btn-success {
+    background-color: #059669;
+    border-color: #059669;
+}
+
+.btn-success:hover {
+    background-color: #047857;
+}
+
+.navbar-brand i {
+    margin-right: 5px;
+}
